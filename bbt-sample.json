@@ -50,6 +50,22 @@
         "chainId": 25925,
         "decimals": 18,
         "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
-      }
+      },
+        {
+        "name": "KKUB",
+        "symbol": "KKUB",
+        "address": "0x9687928146ddd5623Af763035C073e566d8f90A8",
+        "chainId": 25925,
+        "decimals": 18,
+        "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+        },
+        {
+         "name": "BBDT",
+        "symbol": "BBDT",
+        "address": "0x8a3bD6aeD1D75764c013577e2E7eDfe1402B2867",
+        "chainId": 25925,
+        "decimals": 18,
+        "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"   
+        }
     ]
 }
